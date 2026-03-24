@@ -1,2 +1,10 @@
-# customer_behavior_analysis
-Customer shopping behavior analysis using 3,900 transactions. Cleaned and processed data with Python, analyzed key business insights using SQL, and built an interactive Power BI dashboard to explore customer segments, spending patterns, and product trends.
+# 📊 Customer Behavior Analysis
+
+This project analyzes customer shopping behavior using 3,900 transaction records. It focuses on identifying spending patterns, customer segments, and product preferences to generate meaningful business insights.
+
+Data was cleaned and processed using Python, analyzed with SQL, and visualized through an interactive Power BI dashboard. The dashboard highlights key metrics like average purchase, customer trends, and category performance.
+
+## 🛠️ Tech Stack
+- Python (Pandas)
+- SQL (PostgreSQL)
+- Power BI
